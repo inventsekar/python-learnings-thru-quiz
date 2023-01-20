@@ -1,0 +1,186 @@
+What is the correct way to create a variable in Python?
+a) var x = 5
+b) x = 5
+c) x := 5
+d) 5 = x
+
+What is the correct syntax for an if statement in Python?
+a) if x = 5
+b) if x == 5
+c) if x === 5
+d) if x <= 5
+
+What type of loop is used for iterating through a sequence in Python?
+a) for loop
+b) while loop
+c) do-while loop
+d) none of the above
+
+How do you create a function in Python?
+a) function myFunction()
+b) myFunction()
+c) def myFunction():
+d) function: myFunction
+
+What is the correct syntax for importing a module in Python?
+a) import module
+b) include module
+c) using module
+d) require module
+
+What is the correct syntax for a try-except block in Python?
+a) try { } catch { }
+b) try: except:
+c) try { } except { }
+d) try, except
+
+What is a tuple in Python?
+a) An ordered collection of items
+b) An unordered collection of items
+c) A set of items
+d) A list of items
+
+What is the correct syntax for creating a class in Python?
+a) class myClass
+b) class: myClass
+c) def class myClass:
+d) class myClass():
+
+What is the correct syntax for creating a dictionary in Python?
+a) myDict = {}
+b) myDict = []
+c) myDict = ()
+d) myDict = ""
+
+What is the correct syntax for importing a specific function from a module in Python?
+a) import module.function
+b) from module import function
+c) using module.function
+d) require module.function
+
+
+
+How do you print a string in Python?
+a) print("Hello, World!")
+b) console.log("Hello, World!")
+c) echo("Hello, World!")
+d) Print("Hello, World!")
+
+How do you add two numbers in Python?
+a) x + y
+b) x & y
+c) x | y
+d) x * y
+
+What is the correct syntax for a while loop in Python?
+a) while x < 5:
+b) while (x < 5)
+c) while x=5
+d) do x < 5
+
+How do you check if a variable is of a specific data type in Python?
+a) type(x) == int
+b) isInt(x)
+c) x.type() == int
+d) int(x)
+
+What is the correct syntax for raising an exception in Python?
+a) raise Exception("Error occurred")
+b) throw Exception("Error occurred")
+c) exit("Error occurred")
+d) stop("Error occurred")
+
+How do you remove an element from a list in Python?
+a) list.remove(element)
+b) list.pop(element)
+c) list.delete(element)
+d) list.erase(element)
+
+What is the difference between a list and an array in Python?
+a) Lists are ordered and arrays are unordered
+b) Lists are mutable and arrays are immutable
+c) Lists are ordered and arrays are not
+d) Lists can only contain one data type, arrays can contain multiple
+
+How do you check the length of a string in Python?
+a) len(string)
+b) string.length()
+c) count(string)
+d) string.size()
+
+How do you concatenate two strings in Python?
+a) string1 + string2
+b) string1 & string2
+c) string1 | string2
+d) string1 * string2
+
+How do you remove duplicates from a list in Python?
+a) list(set(my_list))
+b) my_list.unique()
+c) my_list.remove_duplicates()
+d) my_list.distinct()
+
+What is the output of the following code:
+x = 5
+y = 10
+print(x + y)
+a) 5
+b) 10
+c) 15
+d) 20
+
+What is the correct syntax for a for loop in Python?
+a) for i to 10
+b) for i in range(10)
+c) for i = 1 to 10
+d) for i = 1, 10
+
+What function is used to round a decimal number in Python?
+a) round()
+b) trunc()
+c) floor()
+d) ceil()
+
+What is the correct syntax for creating a list in Python?
+a) myList = (1, 2, 3)
+b) myList = [1, 2, 3]
+c) myList = {1, 2, 3}
+d) myList = "1, 2, 3"
+
+What is the output of the following code:
+myString = "Hello, World!"
+print(myString[2:5])
+a) ell
+b) lo,
+c) llo
+d) Hel
+
+What is the correct syntax for creating a dictionary in Python?
+a) myDict = {1: "one", 2: "two"}
+b) myDict = [1: "one", 2: "two"]
+c) myDict = (1: "one", 2: "two")
+d) myDict = "1: one, 2: two"
+
+What is the correct syntax for a while loop in Python?
+a) while x < 5
+b) while x < 5:
+c) do x < 5
+d) repeat x < 5
+
+What is the correct syntax for importing a module in Python?
+a) import myModule
+b) include myModule
+c) using myModule
+d) require myModule
+
+What is the correct syntax for raising an exception in Python?
+a) raise Exception("Error occurred")
+b) throw Exception("Error occurred")
+c) exit("Error occurred")
+d) stop("Error occurred")
+
+How do you check the length of a list in Python?
+a) len(myList)
+b) myList.length()
+c) count(myList)
+d) myList.size()
